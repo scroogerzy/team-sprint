@@ -1,2 +1,8 @@
 "# Team Sprint" 
 "# A shared sprint repo for Bitcube Assignment1.3. " 
+
+## Getting Started
+1. Clone the repository
+2. Create your own branch off main for any work
+
+
