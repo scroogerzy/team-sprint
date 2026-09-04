@@ -12,4 +12,7 @@
 4. Kgomotso
 5. Thato
 
-
+## Rules Enforced
+# Branch Protection
+# Required status check
+# Pre-commit hook
