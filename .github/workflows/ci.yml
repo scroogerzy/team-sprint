@@ -1,4 +1,4 @@
-name : CI Check
+name : Team Sprint CI Check
 
 on : 
    pull_request:
