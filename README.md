@@ -5,4 +5,11 @@
 1. Clone the repository
 2. Create your own branch off main for any work
 
+## Contributors
+1. Kamogelo
+2. Archipe
+3. Damian
+4. Kgomotso
+5. Thato
+
 
