@@ -13,6 +13,6 @@
 5. Thato
 
 ## Rules Enforced
-# Branch Protection
-# Required status check
-# Pre-commit hook
+- ** Branch Protection
+- ** Required status check
+- ** Pre-commit hook
