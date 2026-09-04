@@ -14,3 +14,4 @@ A scenario: a colleague pushes a commit, and afterward we realize the message or
 
 Personal question from this assignment:
 1. How do you give permission to a collaborator ?
+2. What is th flow to do a pull request
