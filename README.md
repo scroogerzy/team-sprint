@@ -39,3 +39,10 @@
 - At least one approval is required before merging.
 - CI checks must pass before merging.
 - Direct pushes to main are not allowed.
+
+## Code Review Guidelines
+
+- Review code before approving a pull request.
+- Ensure changes meet project requirements.
+- Resolve all conversations before merging.
+- Keep commit messages clear and descriptive.
