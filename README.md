@@ -16,3 +16,19 @@
 - ** Branch Protection
 - ** Required status check
 - ** Pre-commit hook
+
+## GitHub Workflow
+
+1. Create a feature branch from main.
+2. Make your changes and commit using Conventional Commits.
+3. Push the branch to GitHub.
+4. Open a Pull Request.
+5. Request a review from a teammate.
+6. Merge only after approval and passing checks.
+
+## Branch Naming Convention
+
+- feature/<name>
+- fix/<name>
+- docs/<name>
+- chore/<name>
