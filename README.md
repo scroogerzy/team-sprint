@@ -3,7 +3,7 @@
 
 ## Getting Started
 1. Clone the repository
-2. Create your own branch off main for any work
+2. Create a personal branch from main before starting work
 
 ## Contributors
 1. Kamogelo
