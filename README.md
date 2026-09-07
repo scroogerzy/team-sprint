@@ -32,3 +32,10 @@
 - fix/<name>
 - docs/<name>
 - chore/<name>
+
+## Pull Request Rules
+
+- All changes must be submitted through a Pull Request.
+- At least one approval is required before merging.
+- CI checks must pass before merging.
+- Direct pushes to main are not allowed.
