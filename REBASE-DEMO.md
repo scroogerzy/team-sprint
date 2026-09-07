@@ -1,1 +1,1 @@
-﻿Rebase demonstration - original commit
+﻿Rebase demonstration - updated history
